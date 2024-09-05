@@ -1,0 +1,36 @@
+html, body{
+    height: 100%;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #B1A338;
+    color:white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
+main p {
+    display: inline;
+    background-color:#DBC621;
+    color:black;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: #867E41;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    
+}
+
+
