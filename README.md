@@ -1,2 +1,3 @@
 # Atividades_PW
-repository for web programming activities
+repositório para atividades de programação web
+
