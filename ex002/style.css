@@ -1,0 +1,44 @@
+header h1{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(190, 154, 210);
+    color:aliceblue;
+}
+
+nav a{
+    display: inline-block;
+    width: 20vw;
+    background-color: rgb(190, 154, 210);
+    color: aliceblue;
+    border-radius: 8px;
+    text-align: center;
+    padding: 8px;
+    margin: 10px;
+}
+
+nav{
+    text-align: center;
+}
+
+section{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(190, 154, 210);
+}
+
+section h2{
+    text-align: center;
+    color: aliceblue;
+}
+
+.caixa{
+    display: inline-block;
+    width: calc(45% - 15%);
+    margin: 5%;
+    background-color: rgb(169, 201, 95);
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
